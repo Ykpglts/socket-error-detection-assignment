@@ -32,5 +32,3 @@ Alıcı: **HATA TESPİT EDİLDİ!**
 
 Hazırlayan: [Yakup Gültaş]  
 Tarih: 19 Aralık 2025
-
-Başarılar! 🚀
