@@ -30,5 +30,6 @@ Alıcı: **HATA TESPİT EDİLDİ!**
 
 **Not:** Demo için kısa İngilizce metin kullanın. Server %70 olasılıkla veri bozar.
 
-Hazırlayan: [Yakup Gültaş]  
+Hazırlayan: [1910206003 - Yakup Gültaş]  
 Tarih: 19 Aralık 2025
+
